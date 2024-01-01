@@ -2,3 +2,18 @@ baseURL = 'https://huistorical.github.io/blog/'
 languageCode = 'en-us'
 title = 'My little Nerves'
 theme = 'minos'
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Friends"
+  url = "/Friends/"
+  weight = 1
+
+[[menu.main]]
+  name = "Archives"
+  url = "/Archives/"
+  weight = 1
